@@ -1,0 +1,31 @@
+
+.img-pa4x{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.pa4x1 {
+    width: 400px ;
+    height: 200px;
+    
+}
+.pa4x2{
+    width: 400px ;
+    height: 200px;
+}
+.pa4x3{
+    width: 400px ;
+    height: 200px;
+}
+.titre-pa4x{
+    background-color: rgb(80, 51, 80);
+    color: #A76d;
+    border-radius: 10px;
+    align-items: center;
+    margin: 20px;
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+
+
+}

@@ -1,0 +1,14 @@
+.p-droit{
+    background-color: #A76DAF;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 200px;
+    height: 100px;
+
+}
+.par{
+    background: chartreuse;
+}

@@ -1,0 +1,7 @@
+.pec-elec{
+    background-color: gold;
+}
+.carousel{
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,30 @@
+
+.img-pa5x{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.pa5x1 {
+    width: 400px ;
+    height: 200px;
+}
+.pa5x2{
+    width: 400px ;
+    height: 200px;
+}
+.pa5x3{
+    width: 400px ;
+    height: 200px;
+}
+.titre-pa5x{
+    background-color: rgb(80, 51, 80);
+    color: #A76d;
+    border-radius: 10px;
+    align-items: center;
+    margin: 20px;
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+
+
+}
